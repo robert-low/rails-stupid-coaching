@@ -1,3 +1,11 @@
-<h1><%= @question %></h1>
-<h2><%= @answer %></h2>
-<p><%=link_to "Ask another question", ask_path%></p>
+<div class="interface">
+  <div class>
+    <%=@question%>
+    <p>–You</p>
+  </div>
+    <div class="border-start border-5 answer">
+      <b><%=@answer%></b>
+      <p>–Your coach</p>
+    </div>
+  <%=link_to "Ask another question", ask_path%>
+</div>
