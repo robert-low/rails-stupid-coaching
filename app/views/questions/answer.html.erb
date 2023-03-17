@@ -2,7 +2,11 @@
 
 <blockquote>
   <p>
+  <% if @question.blank? %>
+      😶
+  <% else %>
     <%= @question %>
+  <% end %>
   </p>
   <cite>You</cite>
 </blockquote>
