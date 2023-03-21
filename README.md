@@ -1,6 +1,6 @@
 # Stupid Coaching
 
-~ This is a recreation based on a Rails tutorial at Le Wagon, for teaching beginner programmers. ~
+_This is a recreation based on a Rails tutorial at Le Wagon, which I have coded again, for teaching beginner programmers._
 
 ### Ask the Coach a question, and you will receive a very basic response:
 
