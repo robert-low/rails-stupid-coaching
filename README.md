@@ -2,11 +2,11 @@
 
 ~ This is a recreation based on a Rails tutorial at Le Wagon, for teaching beginner programmers. ~
 
-Ask the Coach a question, and you will receive a very basic response:
+### Ask the Coach a question, and you will receive a very basic response:
 
-If the message is I am going to work, the coach will answer 'Great!'
-If the message has a question mark ? at the end, the coach will answer 'Silly question, get dressed and go to work!'.
-Otherwise the coach will answer 'I don't care, get dressed and go to work!'
+- If the message is _'I am going to work'_, the coach will answer **'Great!'**
+- If the message has a question mark _'?'_ at the end, the coach will answer **'Silly question, get dressed and go to work!'**
+- _Otherwise_ the coach will answer **'I don't care, get dressed and go to work!'**
 
 ## Ruby Version
 
